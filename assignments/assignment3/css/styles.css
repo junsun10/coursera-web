@@ -1,0 +1,45 @@
+#header-nav {
+	background-color: lightgray;
+	border-radius: 0;
+	border: 0;
+}
+#header-nav-container {
+	padding: 0;
+}
+.navbar-brand {
+	font-size: 1.5em;
+	margin-left: 10px;
+}
+#collapsable-nav {
+	clear: both;
+	float: left;
+	width: 100%;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+#nav-list li{
+	border-bottom: 0.25px solid black;
+}
+#nav-list li:nth-child(1) {
+	border-top: 0.25px solid black;
+}
+
+#home-tiles {
+	margin: 10px;
+}
+#main-title {
+	text-align: center;
+	font-size: 1.8em;
+	margin: 10px 10px 20px 10px;
+}
+.menu {
+	text-align: center;
+	font-size: 1.5em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.box {
+	background-color: lightgray;
+	margin-bottom: 10px;
+}
